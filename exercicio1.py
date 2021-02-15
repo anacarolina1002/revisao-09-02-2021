@@ -5,4 +5,3 @@ def numeros():
         resultado=multiplicando*multiplicador
         print(multiplicando,"X",multiplicador,"=",resultado)
 numeros()
-
